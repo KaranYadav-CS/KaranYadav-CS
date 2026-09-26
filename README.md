@@ -1,368 +1,204 @@
-# Cloud-Based-Vision-Project
+<div align="center">
 
-**Cloud-Based Computer Vision System using Microsoft Azure AI Vision Studio**
+# Karan Yadav
 
-A cloud-based computer vision project built using Microsoft Azure for face detection, facial attribute analysis, and image intelligence workflows.
+### Applied AI · Machine Learning · Computer Vision · AI Verification Systems
 
-![Status](https://img.shields.io/badge/status-completed-brightgreen)
-![Platform](https://img.shields.io/badge/platform-cloud-blue)
-![Azure](https://img.shields.io/badge/cloud-Microsoft%20Azure-0078D4)
-![Domain](https://img.shields.io/badge/domain-computer%20vision-purple)
-![Service](https://img.shields.io/badge/service-Azure%20AI%20Vision-orange)
+<p>
+  Building practical AI and machine learning projects across computer vision, cloud AI services, and evidence-driven verification workflows.
+  <br />
+  Focused on learning by implementing usable systems, exploring managed AI services, and connecting AI capabilities with real-world workflows.
+</p>
 
----
+<br />
 
-## Overview
+<p>
+  <a href="https://github.com/KaranYadav-CS?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-AI%20%7C%20ML%20%7C%20Computer%20Vision-2563EB?style=for-the-badge" alt="Projects" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Applied%20AI%20%26%20ML-16A34A?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Direction-Computer%20Vision%20%26%20Verification-F97316?style=for-the-badge" alt="Direction" />
+</p>
 
-Cloud-Based-CV-Project is a beginner-friendly cloud computer vision implementation developed using **Microsoft Azure AI Vision Studio**.
+<br />
 
-This project demonstrates how cloud AI services can analyze images and detect faces without requiring local machine learning model training or GPU setup.
+<p>
+  <a href="https://github.com/KaranYadav-CS">
+    <img src="https://img.shields.io/badge/GitHub-KaranYadav--CS-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-The project focuses on:
+<p>
+  <img src="https://komarev.com/ghpvc/?username=KaranYadav-CS&style=for-the-badge&color=2563EB" alt="Profile views" />
+</p>
 
-- face detection in images
-- face bounding box generation
-- face mask detection
-- facial attribute extraction
-- JSON-based output analysis
-- Azure cloud AI workflow understanding
-
-This repository contains project documentation, sample outputs, screenshots, and implementation details.
-
----
-
-## Project Objective
-
-Traditional computer vision projects often require:
-
-```text
-Dataset Collection
-    ↓
-Model Training
-    ↓
-GPU Configuration
-    ↓
-Deployment
-```
-
-This project explores an alternative cloud-first workflow:
-
-```text
-Image Input
-    ↓
-Azure AI Vision Service
-    ↓
-Cloud Processing
-    ↓
-Face Detection + Attributes
-    ↓
-Results Output
-```
-
-This reduces development complexity and allows faster deployment of AI solutions.
+</div>
 
 ---
 
-## Features
+## Profile
 
-### Implemented Features
+I work on applied AI and machine learning projects that explore how intelligent systems can support practical workflows, from computer vision analysis to evidence-based financial verification.
 
-- Human face detection
-- Face localization using bounding boxes
-- Face mask detection
-- Facial attribute analysis
-- JSON output visualization
-- Azure Vision Studio experimentation
-
-### Current Supported Detection
-
-```text
-Image Upload
-    ↓
-Face Detection
-    ↓
-Bounding Box Generation
-    ↓
-Attribute Analysis
-```
-
-Detected attributes include:
-
-- face presence
-- face mask detection
-- face landmarks
-- pose-related metadata
+My current work includes cloud-based computer vision experimentation using Microsoft Azure and deterministic-first pre-payment verification combining rule-based controls, authorization policies, auditability, and optional LLM-assisted evidence analysis.
 
 ---
 
-## Project Workflow
+## Featured Public Repositories
 
-```text
-User Uploads Image
-        ↓
-Azure AI Vision Studio
-        ↓
-Face Detection Model
-        ↓
-Detected Attributes
-        ↓
-JSON Output
-```
-
-This workflow is fully cloud-based.
-
-No local training is required.
-
----
-
-## Tech Stack
-
-| Tool | Purpose |
-|---|---|
-| Microsoft Azure AI Vision Studio | Computer vision analysis |
-| Azure Cognitive Services | Cloud AI APIs |
-| GitHub | Version control and repository hosting |
-| JSON | Output data format |
-
----
-
-## Azure Service Used
-
-Primary service:
-
-```text
-Azure AI Vision Studio
-```
-
-Feature used:
-
-```text
-Detect Faces in an Image
-```
-
-Capabilities used:
-
-- face detection
-- facial attributes
-- face mask analysis
-- bounding box generation
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">PayProof AI</h3>
+      <p align="center">
+        Local-first pre-payment verification system for Accounts Payable workflows, combining deterministic evidence checks, Cedar authorization, audit trails, and optional NVIDIA Nemotron-assisted semantic analysis.
+      </p>
+      <p align="center">
+        <a href="https://github.com/KaranYadav-CS">
+          <img src="https://img.shields.io/badge/View%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="PayProof AI" />
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Type-Verification%20System-2563EB?style=flat-square" alt="Verification System" />
+        <img src="https://img.shields.io/badge/Focus-Financial%20Fraud%20Controls-16A34A?style=flat-square" alt="Financial Fraud Controls" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Cloud-Based Vision Project</h3>
+      <p align="center">
+        Cloud computer vision project using Microsoft Azure AI Vision Studio to explore face detection, bounding boxes, mask detection, facial attributes, and JSON-based analysis.
+      </p>
+      <p align="center">
+        <a href="https://github.com/KaranYadav-CS">
+          <img src="https://img.shields.io/badge/View%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Cloud-Based Vision Project" />
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Type-Cloud%20AI%20Project-2563EB?style=flat-square" alt="Cloud AI Project" />
+        <img src="https://img.shields.io/badge/Focus-Computer%20Vision-16A34A?style=flat-square" alt="Computer Vision" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Project Demonstration
+## Core Areas
 
-### Azure Vision Studio Interface
-
-The project uses Azure Vision Studio for uploading and analyzing images.
-
----
-
-### Sample Detection Flow
-
-```text
-Input Image
-    ↓
-Azure Face Detection
-    ↓
-Detected Face #1
-    ↓
-Face Mask Status
-```
-
-Sample output:
-
-```json
-{
-  "Face #1": {
-    "Face mask": "No"
-  }
-}
-```
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <b>Applied AI & ML</b>
+      <br />
+      Practical AI workflows, semantic analysis, structured evidence processing, and machine learning experimentation.
+    </td>
+    <td align="center" width="33%">
+      <b>Computer Vision</b>
+      <br />
+      Cloud-based image analysis, face detection, bounding boxes, facial attributes, and vision-service experimentation.
+    </td>
+    <td align="center" width="33%">
+      <b>Verification Systems</b>
+      <br />
+      Deterministic checks, evidence consistency, authorization controls, audit trails, and decision-support workflows.
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Repository Structure
+## Technical Stack
 
-```text
-Cloud-Based-CV-Project/
-│
-├── README.md
-├── LICENSE
-```
+<div align="center">
 
-Repository structure is intentionally minimal because this project focuses on Azure cloud experimentation.
+### Languages
 
----
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
+</p>
 
-## How to Run
+### AI, Machine Learning and Computer Vision
 
-### Step 1: Create Azure Resource
+<p>
+  <img src="https://img.shields.io/badge/Applied%20AI-2563EB?style=for-the-badge" alt="Applied AI" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision" />
+  <img src="https://img.shields.io/badge/NVIDIA%20NIM-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA NIM" />
+  <img src="https://img.shields.io/badge/Nemotron-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Nemotron" />
+</p>
 
-Create an Azure AI Vision resource in Microsoft Azure.
+### Backend, Cloud and Data
 
----
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
+  <img src="https://img.shields.io/badge/Azure%20AI%20Vision-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure AI Vision" />
+</p>
 
-### Step 2: Open Vision Studio
+### Engineering and Security
 
-Visit:
+<p>
+  <img src="https://img.shields.io/badge/Cedar-Authorization-7C3AED?style=for-the-badge" alt="Cedar Authorization" />
+  <img src="https://img.shields.io/badge/SHA--256-Audit%20Integrity-334155?style=for-the-badge" alt="SHA-256" />
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
-```text
-https://portal.vision.cognitive.azure.com/
-```
-
----
-
-### Step 3: Select Feature
-
-Choose:
-
-```text
-Detect faces in an image
-```
-
----
-
-### Step 4: Upload Image
-
-Upload:
-
-- custom image
-- sample image
+</div>
 
 ---
 
-### Step 5: View Results
+## Current Learning Direction
 
-Outputs available:
+<div align="center">
 
-- detected attributes
-- JSON results
-- face bounding boxes
+<table>
+  <tr>
+    <td align="center">Applied AI and ML systems</td>
+    <td align="center">Computer vision workflows</td>
+    <td align="center">Cloud AI services</td>
+    <td align="center">Verification and secure system design</td>
+  </tr>
+</table>
 
----
-
-## Sample Result
-
-### Input
-
-```text
-Human Face Image
-```
-
-### Output
-
-```text
-Face Detected Successfully
-Face Mask: No
-```
+</div>
 
 ---
 
-## Cloud Benefits
+## GitHub Stats
 
-Using Azure provides:
+<div align="center">
 
-- scalable cloud AI processing
-- no GPU dependency
-- fast deployment
-- managed AI services
-- production-ready cloud APIs
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://git.io/awesome-stats-card">
+        <img
+          src="https://awesome-github-stats.azurewebsites.net/user-stats/KaranYadav-CS?cardType=level&theme=dark&fontFamily=&preferLogin=false&Border=18040400"
+          alt="Karan Yadav GitHub Stats"
+        />
+      </a>
+    </td>
+    <!-- <td align="center">
+      <a href="https://git.io/awesome-stats-card">
+        <img
+          src="https://github-readme-streak-stats.herokuapp.com?user=KaranYadav-CS&theme=dark&hide_border=true"
+          alt="Karan Yadav GitHub Streak"
+        />
+      </a>
+    </td> -->
+  </tr>
+</table>
 
----
-
-## Learning Outcomes
-
-This project helped in understanding:
-
-- cloud-based AI systems
-- Azure AI Vision Studio
-- Azure Cognitive Services
-- face detection workflows
-- AI service integration
-- cloud computer vision pipelines
-
----
-
-## Implementation Status
-
-| Component | Status |
-|---|---|
-| Azure resource setup | Completed |
-| Vision Studio configuration | Completed |
-| Face detection | Completed |
-| Bounding box detection | Completed |
-| Face mask detection | Completed |
-| JSON output analysis | Completed |
-| Documentation | Completed |
+</div>
 
 ---
 
-## Future Improvements
+<div align="center">
 
-Planned future upgrades:
+<b>Learning by building. Exploring AI through practical systems.</b>
 
-- emotion detection
-- age estimation
-- gender analysis
-- object detection
-- OCR integration
-- image captioning
-- REST API integration
-- Python SDK implementation
-
----
-
-## Limitations
-
-Current limitations:
-
-- demo-based implementation
-- no custom model training
-- no real-time webcam integration
-- no API automation yet
-- no local deployment
-
-This project is primarily focused on learning Azure computer vision workflows.
-
----
-
-## Use Cases
-
-Potential applications:
-
-- smart surveillance
-- attendance systems
-- mask detection systems
-- visitor analytics
-- cloud AI experimentation
-
----
-
-## Author
-
-**Karan Yadav**
-
-B.Tech CSE (AI & ML)  
-Chandigarh University  
-
-Research Interests:
-
-- Artificial Intelligence
-- Machine Learning
-- Computer Vision
-- Cloud Computing
-- Azure AI Services
-
-GitHub:
-
-```text
-https://github.com/Karan898989
-```
-
----
-
-## License
-
-This project is licensed under the MIT License.
-
----
+</div>
